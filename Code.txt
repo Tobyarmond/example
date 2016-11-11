@@ -8,3 +8,5 @@ If learning git
 endif
 
 Added for branch 1
+More stuff for branch 1
+
