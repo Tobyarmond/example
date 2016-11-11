@@ -1,0 +1,10 @@
+#------------------------
+#Example code for GitGuide
+#------------------------
+
+If learning git
+	then Print "learn it"
+	else Print "don't then"
+endif
+
+
